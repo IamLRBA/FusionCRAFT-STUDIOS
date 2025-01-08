@@ -147,12 +147,14 @@ For inquiries or support, reach out to us:
 
 ---
 
-Acknowledgements
+## Acknowledgements
 
-    Thanks to the open-source community for libraries and resources used in this project.
-    Special appreciation to contributors who help make this project better!
+  Thanks to the open-source community for libraries and resources used in this project.
+  Special appreciation to contributors who help make this project better!
 
-Social Media
+---
+
+## Social Media
 
 Stay connected:
 
