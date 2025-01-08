@@ -38,6 +38,8 @@ To run this project locally, ensure you have:
 - A modern web browser
 - A code editor like Visual Studio Code (optional)
 
+---
+
 ## How to Use
 
 1. **View Projects**: Scroll through the page or use the navigation buttons to explore individual projects.
@@ -47,6 +49,8 @@ To run this project locally, ensure you have:
 3. **Explore All Projects**: Click the "Check Other Projects" button to access the full project list.
 
 4. **Connect with Us**: Use the social media icons in the footer to connect with FusionCraft STUDIOS.
+
+---
 
 ### Installation
 1. Clone the repository:
@@ -59,6 +63,8 @@ To run this project locally, ensure you have:
 
     Open index.html in your browser to view the website.
 
+---
+
 ## 🛠️ Contributing
 
 We welcome contributions from the community! Follow these steps to contribute:
@@ -69,52 +75,60 @@ Steps to Contribute:
 
     Clone Your Fork:
 
-`git clone https://github.com/your-username/fusioncraft-studios-website.git`
+    `git clone https://github.com/your-username/fusioncraft-studios-website.git`
 
-2. Create a Branch: Create a branch for your feature or bug fix.
+2. **Create a Branch**: Create a branch for your feature or bug fix.
 
-git checkout -b feature/your-feature-name
+    `git checkout -b feature/your-feature-name`
 
-Make Changes: Edit the code and test your changes locally.
+3. **Make Changes**: Edit the code and test your changes locally.
 
-Commit Changes:
+4. **Commit Changes**:
 
-git commit -m "Add your meaningful commit message"
+    `git commit -m "Add your meaningful commit message"`
 
-Push Changes:
+5. **Push Changes**:
 
-    git push origin feature/your-feature-name
+    `git push origin feature/your-feature-name`
 
-    Submit a Pull Request: Open a pull request from your branch to the main branch in this repository.
+6. **Submit a Pull Request**: Open a pull request from your branch to the main branch in this repository.
 
-Guidelines:
+---
 
-    Ensure your code follows the existing coding style.
-    Write meaningful commit messages.
-    Test your changes thoroughly.
+## Guidelines:
 
-Reporting Issues
+- Ensure your code follows the existing coding style.
+- Write meaningful commit messages.
+- Test your changes thoroughly.
+
+---
+
+## Reporting Issues
 
 If you find a bug or have a feature request, please open an issue:
 
-    Navigate to the Issues tab in the repository.
-    Click on New Issue.
-    Fill out the provided template with relevant details.
+1. Navigate to the Issues tab in the repository.
+2. Click on New Issue.
+3. Fill out the provided template with relevant details.
 
-Pull Requests
+---
+
+## Pull Requests
 
 We encourage you to submit pull requests for fixes and features. Here's what to do:
 
-    Ensure your pull request targets the main branch.
-    Provide a detailed description of the changes made.
-    Link any relevant issues to the pull request.
+1. Ensure your pull request targets the main branch.
+2. Provide a detailed description of the changes made.
+3. Link any relevant issues to the pull request.
 
-Collaboration
+---
+
+## Collaboration
 
 We value collaboration and welcome discussions about improvements and new features. To discuss:
 
-    Open an issue with the discussion label.
-    Join us on our social media channels (links in the footer).
+1. Open an issue with the discussion label.
+2. Join us on our social media channels (links in the footer).
 
 License
 
