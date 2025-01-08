@@ -130,15 +130,22 @@ We value collaboration and welcome discussions about improvements and new featur
 1. Open an issue with the discussion label.
 2. Join us on our social media channels (links in the footer).
 
-License
+---
+
+## License
 
 This project is licensed under the MIT License.
-Contact
+
+---
+
+## Contact
 
 For inquiries or support, reach out to us:
 
     Email: contact@fusioncraftstudios.com
     Website: FusionCraft Studios
+
+---
 
 Acknowledgements
 
