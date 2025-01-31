@@ -8,7 +8,7 @@ The website combines minimalistic and modern design principles with a smooth use
 
 ## 🌟 Features
 
-- **Continuous Scrolling Design**: Navigate seamlessly through project pages.
+- **A Continuous Scrolling Design**: Navigate seamlessly through project pages.
 - **Project-Specific Pages**: Each project highlights key details such as name, inspiration, type, and images.
 - **Interactive Slideshow**: View project images with next/previous buttons or mouse-grab scrolling.
 - **Navigation Menu**:
