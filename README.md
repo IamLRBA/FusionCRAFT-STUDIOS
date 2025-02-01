@@ -8,15 +8,15 @@ The website combines minimalistic and modern design principles with a smooth use
 
 ## 🌟 Features
 
-- **A Continuous Scrolling Design**: Navigate seamlessly through project pages.
+- **A continuos Scrolling Design**: Navigate seamlessly through project pages.
 - **Project-Specific Pages**: Each project highlights key details such as name, inspiration, type, and images.
-- **Interactive Slideshow**: View project images with next/previous buttons or mouse-grab scrolling.
-- **Navigation Menu**:
+- **An intereactive Slideshow**: View project images with next/previous buttons or mouse-grab scrolling.
+- **A navigation Menu**:
   - **Home**: Introduction to FusionCraft Studios.
   - **Contact**: Links to social media and other ways to reach us.
   - **Projects**: A comprehensive list of all projects.
-- **Footer with Social Links**: Functional icons for Facebook, Instagram, GitHub, and more.
-- **Responsive Design**: Optimized for various devices and screen sizes.
+- **A Footer with Social Links**: Functional icons for Facebook, Instagram, GitHub, and more.
+- **A responsive Design**: Optimized for various devices and screen sizes.
 
 ---
 
