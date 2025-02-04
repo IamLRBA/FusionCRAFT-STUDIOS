@@ -9,7 +9,7 @@ The website combines minimalistic and modern design principles with a smooth use
 ## 🌟 Features
 
 - **A continuos Scrolling Design**: Navigate seamlessly through project pages.
-- **Project-Specific Pages**: Each project highlights key details such as name, inspiration, type, and images.
+- **Contains project-Specific Pages**: Each project highlights key details such as name, inspiration, type, and images.
 - **An intereactive Slideshow**: View project images with next/previous buttons or mouse-grab scrolling.
 - **A navigation Menu**:
   - **Home**: Introduction to FusionCraft Studios.
